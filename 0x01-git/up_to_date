@@ -1,1 +1,5 @@
-touch
+git fetch 
+git pull
+
+
+
